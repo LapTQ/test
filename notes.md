@@ -22,6 +22,15 @@
   - Django + REST framework
   - NodeJS
 
+- Front-end
+  - HTML
+  - CSS
+  - JavaScript
+  - Advanced: (nice to have because no Python) 
+    - ReactJS -> NextJS
+    - Svelte -> SvelteKit
+    - Tailwind
+    
 - System Admin
   - Bash scripting
   - Dockerfile + docker-compose.yml
